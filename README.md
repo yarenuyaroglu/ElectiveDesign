@@ -5,4 +5,7 @@ Graduation project for Elective Design: A mobile app that translates Turkish Sig
 The dataset used in this project is the **Turkish Sign Language Dataset** provided by [Roboflow](https://roboflow.com). 
 You can access the dataset from the following link:
     [Download Dataset](https://universe.roboflow.com/proje-qtjgs/turk-isaret-dili/dataset/2)
+    
 
+## Project Milestones
+- **15 November 2024**: TÜBİTAK application submitted for the project.
