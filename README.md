@@ -70,7 +70,7 @@ Frontend
 2️⃣ Clone the Project
 
 Clone or download the project:
-git clone https://github.com
+git clone [https://github.com](https://github.com/yarenuyaroglu/ElectiveDesign.git)
 
 3️⃣ Run the Backend
 	1.	Navigate to the backend/ directory.
